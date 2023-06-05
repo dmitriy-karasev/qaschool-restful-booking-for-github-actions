@@ -1,6 +1,7 @@
 # Python QA for RESTful Booking API
 
 This repository contains test cases for testing a RESTful booking API using Python.
+Forked from the original repo
 
 ## Project Overview
 
